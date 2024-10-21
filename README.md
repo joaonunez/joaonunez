@@ -22,12 +22,24 @@ Currently, I am focused on enhancing my skills in web development through hands-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     alt="react" width="40" height="40" />
 </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-    width="40" height="40" />
-</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+    width="40" height="40" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
+    width="40" height="40" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"
+    width="40" height="40" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git"
+    width="40" height="40" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask"
     width="40" height="40" />
 </a>
 
@@ -36,14 +48,12 @@ Currently, I am focused on enhancing my skills in web development through hands-
 
    <a href="https://www.linkedin.com/in/joao-nunez-b43026291/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="adam pithewan" height="30" width="40" />
+    alt="joao nunez" height="30" width="40" />
 </a>
 
-</a>
 <a href="https://www.instagram.com/joaodev.cl" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="_._.adam._" height="30" width="40" />
+    alt="joaodev.cl" height="30" width="40" />
 </a>
 </p>
 📫 Contact: joaovaldiglesias@gmail.com
-<br>

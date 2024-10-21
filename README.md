@@ -1,8 +1,10 @@
 # Hello 👋 I'm Joao Nuñez
 
-✨ I'm passionate about building intuitive and responsive web applications. I enjoy transforming ideas into interactive, user-friendly digital experiences. I am constantly expanding my knowledge in front-end and back-end development, aiming to stay up-to-date with the latest industry trends.
+✨ I’m a passionate web developer focused on building dynamic, efficient, and user-centric applications. I specialize in transforming ideas into engaging digital solutions, always prioritizing user experience and performance. With expertise in both front-end and back-end development, I’m committed to continuous learning, staying up-to-date with emerging technologies, and implementing best practices in every project.
 
-Currently, I am focused on enhancing my skills in web development through hands-on projects, exploring new frameworks, and diving deeper into responsive design and clean code principles. I believe in the power of teamwork and effective communication, and I am always looking for opportunities to collaborate with others and solve complex problems.
+Currently, I’m deeply involved in projects that allow me to dive into scalable application architecture, responsive design, and code optimization. I thrive on solving complex problems in collaborative environments and excel at working across multidisciplinary teams. I’m always looking for opportunities to innovate and elevate projects to the next level, bringing both technical and strategic value.
+
+🚀 If you're looking for someone who blends technical expertise with strategic vision, let's connect!
 
 ## Technologies 😊
 <h3 align="left">Languages and Tools:</h3>
@@ -56,4 +58,20 @@ Currently, I am focused on enhancing my skills in web development through hands-
     alt="joaodev.cl" height="30" width="40" />
 </a>
 </p>
+
 📫 Contact: joaovaldiglesias@gmail.com
+
+---
+
+## 🌐 Translate to Spanish
+<a href="#spanish-version"><img src="https://img.shields.io/badge/Translate%20to-Spanish-orange?style=for-the-badge" alt="Translate to Spanish"></a>
+
+---
+
+## Spanish Version 🇪🇸 <a name="spanish-version"></a>
+
+✨ Soy un desarrollador web apasionado por crear aplicaciones dinámicas, eficientes y adaptadas a las necesidades del usuario. Me especializo en convertir ideas en soluciones digitales atractivas, priorizando la experiencia del usuario y el rendimiento. Mi enfoque abarca tanto el front-end como el back-end, y estoy comprometido con la mejora continua, siempre aprendiendo nuevas tecnologías y aplicando las mejores prácticas en cada proyecto.
+
+Actualmente, estoy inmerso en proyectos que me permiten profundizar en la arquitectura de aplicaciones escalables, diseño responsivo y optimización de código limpio. Me impulsa la resolución de problemas complejos en equipo, y destaco por mi capacidad para colaborar eficazmente en entornos multidisciplinarios. Estoy en constante búsqueda de oportunidades para innovar y llevar cada proyecto al siguiente nivel, aportando valor tanto técnico como estratégico.
+
+🚀 Si buscas a alguien que combine habilidades técnicas con visión estratégica, ¡hablemos!

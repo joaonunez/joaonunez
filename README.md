@@ -60,18 +60,3 @@ Currently, I’m deeply involved in projects that allow me to dive into scalable
 </p>
 
 📫 Contact: joaovaldiglesias@gmail.com
-
----
-
-## 🌐 Translate to Spanish
-<a href="#spanish-version"><img src="https://img.shields.io/badge/Translate%20to-Spanish-orange?style=for-the-badge" alt="Translate to Spanish"></a>
-
----
-
-## Spanish Version 🇪🇸 <a name="spanish-version"></a>
-
-✨ Soy un desarrollador web apasionado por crear aplicaciones dinámicas, eficientes y adaptadas a las necesidades del usuario. Me especializo en convertir ideas en soluciones digitales atractivas, priorizando la experiencia del usuario y el rendimiento. Mi enfoque abarca tanto el front-end como el back-end, y estoy comprometido con la mejora continua, siempre aprendiendo nuevas tecnologías y aplicando las mejores prácticas en cada proyecto.
-
-Actualmente, estoy inmerso en proyectos que me permiten profundizar en la arquitectura de aplicaciones escalables, diseño responsivo y optimización de código limpio. Me impulsa la resolución de problemas complejos en equipo, y destaco por mi capacidad para colaborar eficazmente en entornos multidisciplinarios. Estoy en constante búsqueda de oportunidades para innovar y llevar cada proyecto al siguiente nivel, aportando valor tanto técnico como estratégico.
-
-🚀 Si buscas a alguien que combine habilidades técnicas con visión estratégica, ¡hablemos!

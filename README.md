@@ -103,7 +103,7 @@ Herramientas que uso en el día a día para asistir implementación, revisión, 
   <tr>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="40" height="40" alt="Cursor"/><br/><sub>Cursor</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="40" height="40" alt="Claude"/><br/><sub>Claude</sub></td>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/64px-ChatGPT_logo.svg.png" width="40" height="40" alt="ChatGPT"/><br/><sub>ChatGPT</sub></td>
+    <td align="center" width="96"><img src="https://github.com/openai.png" width="40" height="40" alt="ChatGPT"/><br/><sub>ChatGPT</sub></td>
     <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Gemini"/><br/><sub>Gemini</sub></td>
   </tr>
 </table>

@@ -1,25 +1,18 @@
 # Joao Nunez
 
-Desarrollador **full stack** en Santiago de Chile. Diseño y mantengo aplicaciones web y móviles en producción, APIs e integraciones con sistemas de negocio, y el camino hasta el deploy (Docker, Jenkins, Nginx, DNS/SSL y AWS).
+Desarrollador **full stack** en Santiago de Chile. Construyo y mantengo aplicaciones web y móviles, APIs e integraciones entre sistemas, y la operación hasta producción: contenedores, CI/CD, reverse proxy, DNS/SSL y cloud.
 
-Trabajo el ciclo completo: análisis, implementación, despliegue, soporte y documentación. Me interesa código mantenible, criterio en producción y que lo que se entrega se pueda operar.
+Trabajo el ciclo completo — análisis, implementación, despliegue, soporte y documentación — con foco en código mantenible, criterio en producción y que lo entregado se pueda operar.
 
 ---
 
-## Ahora
+## Experiencia
 
-**Liola Chile** — Desarrollador full stack (abr. 2025 – presente)
+Diseño y desarrollo de plataformas de uso interno y de operación (web + mobile), backends con APIs REST, y capas de integración con ERP, inventario y logística.
 
-- **Liolapp Web y Mobile:** operación interna (precios, stock, órdenes de venta y flujos de tienda). Mobile con **React Native + Expo**.
-- **Backend:** APIs REST con Node.js / Express / TypeScript y SQL Server: reglas de negocio, validaciones, mapeo y manejo de errores.
-- **Integraciones:** SAP Service Layer (facturación, stock, socios de negocio), RFID / Century (inventario y despacho) y Blue Express / WMS (guías, etiquetas y tracking).
-- **Jobs y sync:** cronjobs, ETL y sincronización entre sistemas internos y externos.
-- **Infra y DevOps:** Nginx, PM2, Docker, Jenkins (CI/CD desde GitHub), Cloudflare, Certbot (SSL), subdominios y DNS.
-- **Cloud:** AWS (EC2, RDS, S3), accesos SSH y túneles a servicios privados.
-- **Observabilidad:** Grafana y Loki (logs, métricas y diagnóstico en prod).
-- **Colaboración:** trabajo con logística, administración, contabilidad y RR.HH.; APIs documentadas con Swagger y pruebas en Postman.
+En infra y DevOps: pipelines de build/deploy, contenedores, Nginx, certificados TLS, DNS y servicios en AWS (cómputo, bases de datos, almacenamiento). Observabilidad con logs y métricas para diagnosticar incidencias en producción.
 
-Antes: proyectos full stack (Spring Boot + MySQL + Firebase; React + Flask) y formación como Analista Programador (INACAP) + bootcamp Java Spring Boot.
+Colaboro con áreas de negocio (no solo TI): traduzco requerimientos a soluciones técnicas, documento APIs y dejo rastro para que el equipo pueda seguir el trabajo.
 
 ---
 
@@ -53,7 +46,7 @@ Antes: proyectos full stack (Spring Boot + MySQL + Firebase; React + Flask) y fo
 
 ## Cómo trabajo
 
-Orden, comunicación con negocio y criterio en producción: no desplegar a ciegas, dejar rastro (docs, runbooks, pipelines) y resolver incidencias con evidencia (DNS, SSL, logs, deploy).
+Orden, comunicación clara y evidencia en producción: pipelines, documentación y diagnóstico (DNS, SSL, logs, deploy) antes de tocar a ciegas.
 
 ---
 

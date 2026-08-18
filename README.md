@@ -4,6 +4,8 @@ Desarrollador **full stack** en Santiago de Chile. Construyo y mantengo aplicaci
 
 Trabajo el ciclo completo — análisis, implementación, despliegue, soporte y documentación — con foco en código mantenible, criterio en producción y que lo entregado se pueda operar.
 
+Uso **IA de forma profesional** (Cursor, Claude, ChatGPT, Gemini y agentes LLM) para asistir el desarrollo: acelerar implementación, revisar cambios, documentar y dejar entregas más consistentes y escalables, sin soltar el criterio técnico ni la responsabilidad del resultado.
+
 ---
 
 ## Experiencia
@@ -17,8 +19,6 @@ Colaboro con áreas de negocio (no solo TI): traduzco requerimientos a solucione
 ---
 
 ## Stack
-
-Icono + nombre. Agrupado por capa (así se entiende qué es cada logo).
 
 ### Lenguajes
 
@@ -95,11 +95,18 @@ Icono + nombre. Agrupado por capa (así se entiende qué es cada logo).
   </tr>
 </table>
 
----
+### IA aplicada al desarrollo
 
-## Cómo trabajo
+Herramientas que uso en el día a día para asistir implementación, revisión, documentación y automatización con agentes.
 
-Orden, comunicación clara y evidencia en producción: pipelines, documentación y diagnóstico (DNS, SSL, logs, deploy) antes de tocar a ciegas.
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="40" height="40" alt="Cursor"/><br/><sub>Cursor</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/anthropic/D4A27F" width="40" height="40" alt="Claude"/><br/><sub>Claude</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/openai/412991" width="40" height="40" alt="ChatGPT"/><br/><sub>ChatGPT</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Gemini"/><br/><sub>Gemini</sub></td>
+  </tr>
+</table>
 
 ---
 
